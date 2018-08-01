@@ -1,1 +1,2 @@
+role: ansible-role-nagios
 account/passwd: defaults/main.yml
